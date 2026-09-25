@@ -13,7 +13,7 @@ An end-to-end Machine Learning and Exploratory Data Analysis (EDA) application b
 - **Interactive Streamlit Web App**: Interactive UI allowing users to upload datasets, explore insights, evaluate model metrics, and make real-time predictions.
 
 ---
-<img width="1120" height="658" alt="WhatsApp Image 2026-09-23 at 12 00 03 PM" src="https://github.com/user-attachments/assets/28dbe360-8dc2-4cae-b55e-c0651e610d1e" />
+
 <img width="1355" height="632" alt="Screenshot 2026-09-25 114317" src="https://github.com/user-attachments/assets/6bad7d09-a0bc-4a1b-bdb1-6d844a7b8383" />
 <img width="1352" height="627" alt="Screenshot 2026-09-25 114336" src="https://github.com/user-attachments/assets/52c5960d-f80f-4ca7-a55e-1f53beda60b6" />
 
