@@ -16,6 +16,12 @@ An end-to-end Machine Learning and Exploratory Data Analysis (EDA) application b
 
 <img width="1355" height="632" alt="Screenshot 2026-09-25 114317" src="https://github.com/user-attachments/assets/6bad7d09-a0bc-4a1b-bdb1-6d844a7b8383" />
 <img width="1352" height="627" alt="Screenshot 2026-09-25 114336" src="https://github.com/user-attachments/assets/52c5960d-f80f-4ca7-a55e-1f53beda60b6" />
+<img width="1360" height="619" alt="Screenshot 2026-09-25 114356" src="https://github.com/user-attachments/assets/1538b06d-857e-4293-8e24-3a25a5e125ce" />
+
+![Uploading Screenshot 2026-09-25 114356.png…]()
+
+
+
 
 ## 🛠️ Project Structure
 
